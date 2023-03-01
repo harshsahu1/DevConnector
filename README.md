@@ -4,18 +4,18 @@ It is contains list of features like authentication, User Profiles, Forum posts 
 
 # Quick start
 ## Install client dependencies
-'''
+```
 cd client
 npm install
-'''
+```
 
 ## Run both Express & React from root
-'''
+```
 npm run dev
 Build for production
-'''
+```
 
 ## cd client
-'''
+```
 npm run build
-'''
+```
