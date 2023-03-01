@@ -3,15 +3,19 @@ This is a Social network for developers. it is a MERN stack application from Ude
 It is contains list of features like authentication, User Profiles, Forum posts etc.
 
 # Quick start
-##Install client dependencies
-
+## Install client dependencies
+'''
 cd client
 npm install
+'''
 
-##Run both Express & React from root
-
+## Run both Express & React from root
+'''
 npm run dev
 Build for production
+'''
 
-##cd client
+## cd client
+'''
 npm run build
+'''
